@@ -1,12 +1,11 @@
 # ColorLink
-![ColorLink Preview](docs/preview1.png)
 AviUtl2用のカラー連動スクリプトです。
 複数の図形や画像に「カラーリンク」を追加し、
 1つの「カラーマスター」から色をまとめて変更できます。
 
 カラーマスターには「色A」「色B」「色C」の3色があり、
 カラーリンク側で対応するカラーグループを選択します。
-[ColorLink 説明動画](https://youtu.be/npKoy7FE_cs)
+
 
 ## 概要
 ColorLinkは、複数のオブジェクトの色を
@@ -102,8 +101,7 @@ Layer 21～22のカラーリンクはカラーマスター②を参照します�
 
 
 ## 詳しい使い方
-説明動画を公開予定です。
-公開後、この項目に動画リンクを追加します。
+- 説明動画：https://youtu.be/npKoy7FE_cs?si=S5UV5vD7wUA5BDgY
 
 
 ## ライセンス
@@ -127,5 +125,5 @@ MIT License
 
 
 ## リンク
-- ニコニ・コモンズ：登録予定
-- AviUtl2カタログ：登録予定
+- ニコニ・コモンズ：https://commons.nicovideo.jp/works/nc503121
+- AviUtl2カタログ：https://a2cw.sevenc7c.com/package/InuyoshiAtom.ColorLink
