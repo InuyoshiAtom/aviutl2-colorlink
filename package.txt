@@ -38,7 +38,6 @@ AviUtl2用のカラー連動スクリプトです。
 MIT License
 
 詳細な説明、最新版、ソースコード：
-GitHub
+GitHub:https://github.com/InuyoshiAtom/aviutl2-colorlink/releases/latest
 
-説明動画：
-公開予定
+説明動画：https://youtu.be/npKoy7FE_cs?si=S5UV5vD7wUA5BDgY
