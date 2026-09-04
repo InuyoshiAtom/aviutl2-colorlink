@@ -1,4 +1,6 @@
 # ColorLink
+![ColorLink Preview](docs/preview1.png)
+![ColorLink Preview](docs/preview2.png)
 AviUtl2用のカラー連動スクリプトです。
 複数の図形や画像に「カラーリンク」を追加し、
 1つの「カラーマスター」から色をまとめて変更できます。
